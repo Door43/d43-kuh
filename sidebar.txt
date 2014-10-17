@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kuh:home|Door43 (kuh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kuh|d43-kuh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kuh/archive/master.zip|d43-kuh.zip]]
+
+**Recent Changes**
+{{changes>ns = kuh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kuh|Ethnologue data]]
+
